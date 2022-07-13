@@ -1,0 +1,28 @@
+.carousel-container{
+    margin: 5rem
+}
+
+#carousel1 {
+ 
+ background-image: url("../../../assets/chicabonita.jpg");
+ background-size: cover;
+}
+
+#carousel2 {
+    
+    background-image: url("../../../assets/salon1.jpg");
+    background-size: cover;
+   }
+
+
+   #carousel3 {
+    
+    background-image: url("../../../assets/biblioteca.jpg");
+    background-size: cover;
+   }
+
+
+
+  .carousel-caption{
+    background-color: rgba(0, 0, 0, 0.61);
+   }
